@@ -1,16 +1,9 @@
-import Homepage from "./Homepage"
-
-function App (){
-
+function App() {
     return (
-        
         <div>
-            <Homepage /> 
-    
-    </div>
+            <h1>Hello, world!</h1>
+        </div>
     )
-    
-    
 }
 
 export default App
